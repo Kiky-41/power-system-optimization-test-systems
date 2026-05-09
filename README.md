@@ -1,4 +1,5 @@
 # ⚡ Power System Optimization Test Systems v1.0.0
+[![DOI](https://zenodo.org/badge/1233930647.svg)](https://doi.org/10.5281/zenodo.20097726)
 
 Initial public release of benchmark test systems for constrained power system optimization studies.
 
